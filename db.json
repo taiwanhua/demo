@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "getTitle": {
+	"title": "<title>ECMAScript® 2020 Language&nbsp;Specification</title>"
   }
 }
